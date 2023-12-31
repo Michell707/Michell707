@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michell707
 - 👀 I’m interested in learn 
 - 🌱 I’m currently learning all
-- 💞️ I’m looking to collaborate on nobody
+- 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me ...
 
 <!---
